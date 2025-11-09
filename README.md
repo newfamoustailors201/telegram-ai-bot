@@ -1,2 +1,1 @@
-# telegram-ai-bot
-An AI-powered Telegram chatbot built with Python, OpenAI, and Replit hosting.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/eece5fe3-b247-4f1a-9126-9da5d425287f/deploy-status)](https://app.netlify.com/projects/cbjbtamilan2/deploys)
